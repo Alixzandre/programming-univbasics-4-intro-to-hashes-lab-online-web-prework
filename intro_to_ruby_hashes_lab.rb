@@ -39,8 +39,8 @@ def update_counting_hash(hash, key)
     
        
    else
-     hash[:key]
-     hash[:newkey] = 1
+     
+     hash[:key] = 1
     
      
    end
